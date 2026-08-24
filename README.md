@@ -1,31 +1,23 @@
-# 🤖 AI Task & Prompt Manager (CRUD App)
+# 🤖 AI Task & Prompt Manager
 
-Yapay Zeka & Web Geliştirme eğitimi kapsamında geliştirilmiş modern bir CRUD (Create, Read, Update, Delete) web uygulaması.
+Yapay Zeka ve Web Geliştirme eğitimi kapsamında React, Tailwind CSS ve LocalStorage kullanılarak geliştirilmiş modern bir CRUD web uygulamasıdır.
 
----
-
-## 🔗 Canlı Demo (Netlify)
-👉 **[Canlı Yayını Görüntüle](NETLIFY_LINKIN_BURAYA)**
-
----
+## 🔗 Canlı Demo
+- **Netlify:** [Canlı Uygulama Linki](NETLIFY_LINKINI_BURAYA_YAPISTIR)
 
 ## 📸 Ekran Görüntüsü
-*(Uygulamanı Netlify'da açtıktan sonra bir ekran görüntüsü alıp GitHub Issues/README içine sürükleyip bırakabilirsin)*
-
----
+![Uygulama Ekran Görüntüsü](screenshot.png)
 
 ## 🚀 Proje Özellikleri
-- **Ekleme (Create):** AI promptları ve teknik görevler oluşturma (Kategori, Başlık, Açıklama).
-- **Listeleme (Read):** Dinamik, modern ve duyarlı kart arayüzünde verileri listeleme.
-- **Güncelleme (Update):** Mevcut görevleri düzenleme ve durumunu (tamamlandı/açık) güncelleme.
-- **Silme (Delete):** İstenmeyen kayıtları anında kaldırma.
-- **Kalıcı Hafıza:** Sayfa yenilendiğinde verilerin korunması için `LocalStorage` entegrasyonu.
-
----
+- **Ekleme (Create):** Başlık, kategori (Prompt, Araştırma, Entegrasyon vb.) ve açıklama içeren yeni AI görevleri oluşturma.
+- **Listeleme (Read):** Kayıtlı verilerin modern ve duyarlı kart arayüzünde listelenmesi.
+- **Güncelleme (Update):** Mevcut görevlerin bilgilerini düzenleme ve durumunu (tamamlandı/açık) değiştirme.
+- **Silme (Delete):** İstenmeyen görevleri tek tıkla silme.
+- **Kalıcı Depolama:** Sayfa yenilendiğinde verilerin kaybolmaması için `LocalStorage` entegrasyonu.
 
 ## 🛠️ Kullanılan Teknolojiler
-- **Framework / Kütüphane:** React (Vite)
-- **Stil / Tasarım:** Tailwind CSS
-- **İkon Seti:** Lucide React
-- **Veri Saklama:** Web Storage API (LocalStorage)
-- **Dağıtım (Deployment):** Netlify
+- **Kütüphane:** React.js (Vite)
+- **Stil:** Tailwind CSS
+- **İkonlar:** Lucide React
+- **Veri Depolama:** LocalStorage API
+- **Yayınlama (Deployment):** Netlify
