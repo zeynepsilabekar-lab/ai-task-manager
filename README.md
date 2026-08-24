@@ -1,16 +1,31 @@
-# AI Task & Prompt Manager
+# 🤖 AI Task & Prompt Manager (CRUD App)
 
-Yapay Zeka ve Web Geliştirme eğitimi kapsamında geliştirilmiş modern CRUD (Ekle, Listele, Güncelle, Sil) web uygulaması.
+Yapay Zeka & Web Geliştirme eğitimi kapsamında geliştirilmiş modern bir CRUD (Create, Read, Update, Delete) web uygulaması.
 
-## 🚀 Özellikler
-- **Ekleme (Create):** Başlık, kategori ve açıklama içeren yeni AI görevleri/promptları ekleme.
-- **Listeleme (Read):** Eklenen verilerin modern kart arayüzünde dinamik gösterimi.
-- **Güncelleme (Update):** Görev detaylarını düzenleme ve durumunu tamamlama/geri alma.
-- **Silme (Delete):** İstenmeyen kayıtları anında temizleme.
-- **Kalıcı Depolama:** Tarayıcı yenilendiğinde verilerin kaybolmaması için `LocalStorage` entegrasyonu.
+---
+
+## 🔗 Canlı Demo (Netlify)
+👉 **[Canlı Yayını Görüntüle](NETLIFY_LINKIN_BURAYA)**
+
+---
+
+## 📸 Ekran Görüntüsü
+*(Uygulamanı Netlify'da açtıktan sonra bir ekran görüntüsü alıp GitHub Issues/README içine sürükleyip bırakabilirsin)*
+
+---
+
+## 🚀 Proje Özellikleri
+- **Ekleme (Create):** AI promptları ve teknik görevler oluşturma (Kategori, Başlık, Açıklama).
+- **Listeleme (Read):** Dinamik, modern ve duyarlı kart arayüzünde verileri listeleme.
+- **Güncelleme (Update):** Mevcut görevleri düzenleme ve durumunu (tamamlandı/açık) güncelleme.
+- **Silme (Delete):** İstenmeyen kayıtları anında kaldırma.
+- **Kalıcı Hafıza:** Sayfa yenilendiğinde verilerin korunması için `LocalStorage` entegrasyonu.
+
+---
 
 ## 🛠️ Kullanılan Teknolojiler
-- React (Vite)
-- Tailwind CSS
-- Lucide React (İkonlar)
-- LocalStorage API
+- **Framework / Kütüphane:** React (Vite)
+- **Stil / Tasarım:** Tailwind CSS
+- **İkon Seti:** Lucide React
+- **Veri Saklama:** Web Storage API (LocalStorage)
+- **Dağıtım (Deployment):** Netlify
