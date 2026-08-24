@@ -5,8 +5,6 @@ Yapay Zeka ve Web Geliştirme eğitimi kapsamında React, Tailwind CSS ve LocalS
 ## 🔗 Canlı Demo
 - **Netlify:** https://calm-tiramisu-5696d0.netlify.app/
 
-## 📸 Ekran Görüntüsü
-![Uygulama Ekran Görüntüsü](screenshot.png)
 
 ## 🚀 Proje Özellikleri
 - **Ekleme (Create):** Başlık, kategori (Prompt, Araştırma, Entegrasyon vb.) ve açıklama içeren yeni AI görevleri oluşturma.
