@@ -3,7 +3,7 @@
 Yapay Zeka ve Web Geliştirme eğitimi kapsamında React, Tailwind CSS ve LocalStorage kullanılarak geliştirilmiş modern bir CRUD web uygulamasıdır.
 
 ## 🔗 Canlı Demo
-- **Netlify:** [Canlı Uygulama Linki]([(https://6a8cab3ac0627392511ff61a--calm-tiramisu-5696d0.netlify.app/)](https://6a8cab3ac0627392511ff61a--calm-tiramisu-5696d0.netlify.app/))
+- **Netlify:** [Canlı Uygulama Linki] https://6a8cab3ac0627392511ff61a--calm-tiramisu-5696d0.netlify.app/
 
 ## 📸 Ekran Görüntüsü
 ![Uygulama Ekran Görüntüsü](screenshot.png)
